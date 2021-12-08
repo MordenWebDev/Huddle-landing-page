@@ -12,6 +12,11 @@
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
   }
+
+  header{
+      margin: 3rem 1rem 1rem 2rem;
+  }
+  
   /* nav bar with image */
   nav {
     margin: 1rem;
