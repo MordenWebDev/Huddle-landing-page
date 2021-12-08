@@ -67,7 +67,7 @@
   .group {
     display: flex;
   
-    margin-top: 3rem;
+    margin-top: 6rem;
     justify-content: flex-end;
   }
   
@@ -145,6 +145,7 @@
     .group {
       display: flex;
       justify-content: center;
+        margin-top: 3rem;
     }
   }
   /* media querry for device lower than 400px */
