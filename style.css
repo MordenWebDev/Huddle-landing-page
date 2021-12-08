@@ -7,7 +7,7 @@
   /* // body default style */
   body {
     margin: 0;
-    background: url(/images/bg-desktop.svg);
+    background: url("images/bg-desktop.svg");
     background-color: hsl(257, 40%, 49%);
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
@@ -145,7 +145,7 @@
     .group {
       display: flex;
       justify-content: center;
-        margin-top: 3rem;
+      margin-top: 3rem;
     }
   }
   /* media querry for device lower than 400px */
