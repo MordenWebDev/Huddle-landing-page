@@ -18,6 +18,10 @@
     position: relative;
     margin-bottom: 0%;
   }
+nav img{
+height:65px;
+    width:264px
+}
   
   /* hero section start */
   .hero {
@@ -29,6 +33,8 @@
   
   .hero-img {
     margin-left: 1rem;
+      width:700px;
+      height:500px;
   }
   
   /* content section */
